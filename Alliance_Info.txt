@@ -1,0 +1,12 @@
+Client ID: 17498034553
+URL: http://10.254.254.13/0/up
+User Name: sp194_octn
+Password: 1990
+wifi:16041990
+
+IP Address:
+IP: 172.18.225.194
+Subnet: 255.255.255.128
+Default Gateway: 172.18.225.129
+DNS 1: 172.18.225.129
+DNS 2: 8.8.8.8
